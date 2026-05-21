@@ -8,7 +8,7 @@
 
 ## cd
 - change direcctory
-#Some useful version of cd
+ #Some useful version of cd
 -  cd .. --> go back one folder
 -  cd ~ -->  go to home directory
 -  cd / --> go to root directory 
