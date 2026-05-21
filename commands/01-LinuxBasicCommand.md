@@ -1,14 +1,14 @@
 ## ls
  List file and directories
 
- #Some useful version of ls
+  #Some useful version of ls
 -  ls -l --> long format (Permissions, owner, size)
 -  ls -a --> Show hidden file too
 -  ls -la --> Long + Hidden file 
 
 ## cd
 - change direcctory
- #Some useful version of cd
+  #Some useful version of cd
 -  cd .. --> go back one folder
 -  cd ~ -->  go to home directory
 -  cd / --> go to root directory 
